@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import 'react';
 
 function Home() {
     return (
