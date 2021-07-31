@@ -1,5 +1,6 @@
 import { getChaptersId, getChapterJSX } from "../lib/chapters";
 
+
 export async function getStaticPaths() {
     const paths = getChaptersId();
    
