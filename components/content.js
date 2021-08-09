@@ -39,7 +39,7 @@ export const cont = [
       "pagina" : "v1_11_sintaxe_diacronica"}, 
   {"titulo" : "Dez obras para conhecer a Pragmática",
       "autoria" : ["Camilla Santero Pontes", "Cecilia Aguirre"],
-      "pagina" : "v1_11_sintaxe_diacronica"},       
+      "pagina" : "v1_12_pragmatica"},       
 	{"titulo" : "Dez obras para conhecer Linguística Queer/Cuir",
       "autoria" : ["Rodrigo Borba","Elizabeth Sara Lewis"],
       "pagina" : "v1_13_linguística_queer"},     
